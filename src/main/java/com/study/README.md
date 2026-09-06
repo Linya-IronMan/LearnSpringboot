@@ -1,0 +1,6 @@
+- api
+- core: 为业务服务的技术性封装 
+  - annotation：注解代码 
+  - config：继承接口文档的配置 
+  - model: 通用接口响应对象 
+  - spring: Bean 工厂 
