@@ -1,5 +1,9 @@
 # SpringBoot 学习仓库
 
+更多学习资料：
+
+- [语雀参考笔记](https://goldpankit.yuque.com/org-wiki-goldpankit-opypff/full-stack/oeelx7lizuk7hhbv)
+
 ## Thymeleaf 页面渲染
 
 本项目使用 Thymeleaf 将服务端数据渲染为 HTML 页面，相关依赖、控制器和模板如下：
@@ -115,7 +119,3 @@ spring:
 ```
 
 本项目当前只配置了服务端口，Thymeleaf 使用 Spring Boot 默认配置。
-
-更多学习资料：
-
-- [语雀参考笔记](https://goldpankit.yuque.com/org-wiki-goldpankit-opypff/full-stack/oeelx7lizuk7hhbv)
